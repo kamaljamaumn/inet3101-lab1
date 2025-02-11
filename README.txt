@@ -1,6 +1,6 @@
 Author
 
-[Your Name]
+Kamal Jama
 
 Program Description
 
